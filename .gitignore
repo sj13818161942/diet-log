@@ -1,0 +1,12 @@
+# User data (do not commit)
+meal_log.json
+user_profile.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
